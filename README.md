@@ -1,4 +1,4 @@
-# Overload-Basic-Calculator
+# Console-Based Simple Calculator
 A simple Java-based calculator supporting addition, subtraction, multiplication, and division with int and float values.
 
 📂Files:
