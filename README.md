@@ -16,6 +16,12 @@ A simple Java-based calculator supporting addition, subtraction, multiplication,
 * Method overloading allows operations with different `int` and `float` combinations.
 * The program continues running until the user chooses to exit.
 
+**Required Software:**
+
+* **Java JDK 8 or above** — To compile and run the Java program.
+* **IDE or Code Editor** — IntelliJ IDEA, Eclipse, VS Code, or any Java-supported editor.
+* **Command Prompt/Terminal** — To compile and execute the program using Java commands.
+
 ## Run
 
 ```bash
