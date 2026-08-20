@@ -7,9 +7,7 @@ A simple Java-based calculator supporting addition, subtraction, multiplication,
 
 
 
-
-
-## How It Works
+**How It Works:**
 
 * `BasicCalculator.java` handles user input and operation selection.
 * `MathOperations.java` performs the selected mathematical operation.
